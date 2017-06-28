@@ -1,2 +1,4 @@
 # MusicPlayer
-single page music app
+Single Page Music App
+
+Still work in progress
