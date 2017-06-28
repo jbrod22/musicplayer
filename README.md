@@ -1,4 +1,6 @@
 # MusicPlayer
-Single Page Music App
 
-Still work in progress
+
+- React-Redux
+- Minimum Viable Product
+- Import ITunes coming soon
